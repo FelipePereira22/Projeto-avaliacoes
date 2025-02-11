@@ -1,0 +1,160 @@
+/* - Family: [League Spartan](https://fonts.google.com/specimen/League+Spartan)
+- Weights: 400, 500, 700
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+
+
+*/
+
+/* @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+
+:root{
+
+    --fonte-principal: "League Spartan", serif;
+    --tfonte: 1.2rem;
+    --titulos: #502050;
+    --paragrafo: #937b92;
+    --nome-conteudo: #f7f2f7;
+    --abaixo-nome: #ee68a4;
+    --fundo-avalia-estrela: #F7F2F8;
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: var(--fonte-principal);
+}
+
+body{
+    background: #fff url(../assets/bg-pattern-top-desktop.svg) top no-repeat;
+    background-size: contain;
+    height: 100vh;
+
+}
+
+main{
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
+} */
+
+/* }
+
+#titulo-p-avaliacoes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+}
+
+#titulo{
+    border: 1px solid red;
+    width: 30%;
+}
+
+#titulo h1{
+    font-size: 3.20rem;
+    color: var(--titulos);
+}
+
+#titulo p{
+    font-size: var(--tfonte);
+    color: var(--paragrafo);
+    padding: 20px 0 0;
+}
+
+#avaliacoes{
+    display: inline-flex;
+    flex-flow: column;
+    gap: 40px;
+    border: 1px solid red;
+    width: 50vh;
+}
+
+#p1{
+    background-color: var(--nome-conteudo);
+    padding: 10px;
+    align-items: start;
+}
+
+#p2{
+    align-items: center;
+    background-color: var(--nome-conteudo);
+    padding: 10px;
+}
+
+#p3{
+    align-items: end;
+    background-color: var(--nome-conteudo);
+    padding: 10px;
+} */
+
+/* #conteudo-topo{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+}
+
+#titulo-paragrafo{
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+    width: 50vw;
+}
+
+#titulo-paragrafo h1{
+    font-size: 4rem;
+    color: var(--titulos);
+}
+
+#titulo-paragrafo p{
+    font-size: var(--tfonte);
+    color: var(--paragrafo);
+    padding: 2rem 0 0;
+
+}
+
+#avaliacoes-estrelas{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+
+    width: 50vw;
+
+
+
+    border: 1px solid red;
+}
+
+
+#p1{
+    display: inline;
+    background: var(--fundo-avalia-estrela);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+#p2{
+    display: inline;
+    background: var(--fundo-avalia-estrela);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#p3{
+    display: inline;
+    background: var(--fundo-avalia-estrela);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#p1 span, #p2 span, #p3 span{
+    padding-right: 1rem
+} */
